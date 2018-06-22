@@ -29,7 +29,7 @@ public class Solution {
 			
 			int[] result = karatsuba(a, b, n);
 			
-	        i =0;
+	         i =0;
 	        while(i<result.length) {
 	        	System.out.print(result[i] + " ");
 	        	i++;
